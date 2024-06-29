@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This Solidity contract implements a basic ERC20 token named `MyToken` using the OpenZeppelin Contracts library. It provides essential functionalities for creating your own custom token on the Ethereum blockchain.
+This Solidity contract implements a basic ERC20 token named `myERC20Token` using the OpenZeppelin Contracts library. It provides essential functionalities for creating your own custom token on the Ethereum blockchain.
 
 **Description**
 
