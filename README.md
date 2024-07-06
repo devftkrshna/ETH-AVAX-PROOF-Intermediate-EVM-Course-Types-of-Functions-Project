@@ -75,7 +75,7 @@ MyToken is designed to provide flexibility for token management on the Ethereum 
 
 - Dominique Pizzie
   - GitHub: [DomPizzie](https://github.com/DomPizzie)
-- Your Name
+- Vaibhav Sharma
   - GitHub: [devftkrshna](https://github.com/devftkrshna)
 
 ## License
